@@ -144,17 +144,11 @@ table th, .borderwrap table th, .subtitle, .subtitlediv, .postlinksbar, .maintit
 #userlinks p, #userlinksguest p {
     font-size: 12px !important;
 }
-.hidemain {
-    border-color: #757575 !important;
-}
-.exdiv {
+button, .hidemain, .exdiv {
     border-color: #757575 !important;
 }
 .textarea-bb-panel:after {
     border-color: #757575 transparent !important;
-}
-button {
-    border-color: #757575 !important;
 }
 .barc, .usercp_menu_out, .navbar {
     border-color: transparent !important;
