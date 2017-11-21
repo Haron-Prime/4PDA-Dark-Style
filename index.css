@@ -15,7 +15,7 @@ body {
     border: none !important;
 }
 
-.borderwrap.read .row2, .borderwrap.read .post2, .borderwrap.read .post1, .borderwrap.read td.formbuttonrow, /* упоминания */
+.borderwrap.read .row2, .borderwrap.read .post2, .borderwrap.read .post1, .borderwrap.read td.formbuttonrow,
 .lb-outerContainer, #logostrip, #header, #navbar, #replace_navbar, #list_wrapper, #footer, .menupopup .menu .item, .bg3, .activeusers, select, input.button, .plainborder, .tablefill, .tablepad, .borderwrap p, .popmenubutton-new, .popmenubutton, .hidemain, .post-edit-reason, #dw-wrapper, #dw-top, #dw-bottom, .pp-image-thumb-wrap, .pp-image-thumb-wrap-floatright, .pp-image-mini-wrap, .pp-image-mini-wrap-floatright, .resized-linked-image, .darkrow3, .postcolor, .attach-menubutton, .list_item:hover,  #welcome, .errorwrap, #redirectwrap, .attach-messagediv, .exdiv, #ucpmenu, #ucpcontent, .borderwrap, .borderwrapm, .formtable td, .pformleft, .pformleftw, .pformright, .qms_unread_row, .ed-wrap .ed-p-textarea, .bb-panel-button:hover, .check_list_div, .fieldwrap, .post-block > .block-body, .header, .sidebar, .footer-panel, .search-form, .events-count, .i-code:hover, .slider-content:after, .input-wrap, .captcha, .ed-wrap, td, #ed-0_wrap.ed_wrap, #contacts {
     background: none !important;
     border: none !important;
@@ -59,7 +59,7 @@ span[style="color:#290063"] {
 .searchlite {
     background-color: #e8eb89 !important;
 }
-.slider-content .meta-box a {  /* Ссылки в новой верхней всплывашке "обзоры" */
+.slider-content .meta-box a {
     background-color: #508fcf !important;
 }
 /* links */
@@ -84,22 +84,22 @@ a:hover {
 #go_1, .content, .formtable td.formtitle, .formsubtitle, .row2, .pagelink, .pagelinklast, .pagecurrent, .minipagelink, .minipagelinklast, .pp-contentbox-back, .pp-contentbox-entry, .pp-contentbox-entry-noheight, .pp-contentbox-entry-noheight-mod, .pp-contentbox-entry-noheight-sel, .popupmenu-new, .pp-mini-content-entry, .pp-mini-content-entry-noheight, .pp-mini-entry-noheight-shaded, .post1, .post2, .bg1, .toplinks span, .pp-datebox, .popmenubutton-new, .globalmesswrap, .list_item, body[style="background:transparent;"], .globalmesswarnwrap, .list-group .list-group-item:active, .nav4pda, .form-bg, .form-toggle-visible .form-toggle-btn, .sidebar .list-group .list-group-item.active, #nav .active > *, .list-group > .list-group-item:hover, #nav .active:hover {
     background: #303030 !important;
 }
-.navbar, .slider-content {  /* навигация в QMS */
+.navbar, .slider-content {
     background: #303030!important;
 }
 .ac_results, .row1, .popupmenu-new, .usercp_menu, .form, .list_item:hover, .menupopup .menu, .upopupmenu-new, tr td.formbuttonrow, .pformstrip, .borderwrap p.formbuttonrow, .borderwrap p.formbuttonrow1, .bar, .barb, .barc, .popupmenu, .attach-popupmenu, .attach-menu-row-over, .qms_unread_row, .list_item.active, #events-wrapper, .list-group .list-group-item, .dropdown-menu, .slider-content .meta-box, .ddbp-wframe {
     background: #303030 !important;
 }
-.ac_over, .codemain, .sqlmain, .htmlmain, .searchinput, textarea, .ed-wrap .ed-bbcode-hover, #_fskit, #ipb-file-upload-box, input, #events-list > a:hover, #nav ul li > .slider-active, #nav li:not([class=""]) a, #nav li:not([class=""]):hover, #nav ul li > *:hover, .i-code .dropdown-menu > li > a:hover, .i-code .dropdown-menu > li > a:focus { /* white */
+.ac_over, .codemain, .sqlmain, .htmlmain, .searchinput, textarea, .ed-wrap .ed-bbcode-hover, #_fskit, #ipb-file-upload-box, input, #events-list > a:hover, #nav ul li > .slider-active, #nav li:not([class=""]) a, #nav li:not([class=""]):hover, #nav ul li > *:hover, .i-code .dropdown-menu > li > a:hover, .i-code .dropdown-menu > li > a:focus {
     background: #ccc !important;
 }
-.row2shaded, .post1shaded, .cur .block-title, #ipbwrapper > div[style*="background:#dff0d8"] { /* зеленый фон (куратор и добавлено в закладки) */
+.row2shaded, .post1shaded, .cur .block-title, #ipbwrapper > div[style*="background:#dff0d8"] {
     background: rgba(0, 154, 61, 0.3) !important;
 }
 .mod .block-title { /* blue moder cell. */
     background: rgba(66, 115, 173, 0.3) !important;
 }
-.row4shaded2, .post1shaded2, .post2shaded2, .ex .block-title, .error-content { /* red cell. warning */
+.row4shaded2, .post1shaded2, .post2shaded2, .ex .block-title, .error-content {
     background: rgba(255, 100, 100, 0.6) !important;
 }
 .post-block.tbl > .block-title {
@@ -142,7 +142,7 @@ table th, .borderwrap table th, .subtitle, .subtitlediv, .postlinksbar, .maintit
 .maintitle, table th, .borderwrap table th, .subtitle, .subtitlediv, .postlinksbar, .maintitlecollapse, .pp-title, .pp-header, .pp-tabclear, .btn, .btn:hover, .upopupmenu-category, h4, h3, .popupmenu-category, .codetop, .sqltop, .htmltop {
     padding-left: 10px !important;
 }
-#header .h-frame { /* QMS верхушка с градиентом */
+#header .h-frame {
     background: linear-gradient(to top, transparent, black) !important;
 }
 /* other */
@@ -150,7 +150,6 @@ table th, .borderwrap table th, .subtitle, .subtitlediv, .postlinksbar, .maintit
     font-size: 12px !important;
 }
 .hidemain {
-    /*noinspection CssInvalidPropertyValue*/
     border-color: #757575 !important;
 }
 .exdiv {
