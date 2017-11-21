@@ -3,7 +3,7 @@
     display: none !important;
 }
 body {
-    background-color: #222 !important;
+    background-color: #252525 !important;
     background-attachment: fixed !important;
     background-clip: border-box !important;
     background-origin: padding-box !important;
@@ -29,7 +29,7 @@ body, .user_home a, #navstrip, .formsubtitle, .input-warn, .input-green, .input-
     text-shadow: 1px 1px 1px black;
 }
 #events_wrapper {
-    background-color: #333 !important;
+    background-color: #303030 !important;
 }
 .codemain, .sqlmain, .htmlmain {
     font-family: Consolas, "Courier New", Verdana, Arial, Ubuntu, serif !important;
@@ -72,7 +72,7 @@ a:hover {
 
 /* blocks */
 .borderwrap, #userlinks, #userlinksguest, .copyright, #gfooter, .moddiv, #dw-body, .curdiv, #loading-layer-inner, .newslink, #ipbcontent, .ipbpagespan, .ipbnav, .ipbnavsmall, #ipbwrapper > .ipbtable, .message_item.in_message, .post-block.tbl.cur, .post-block.tbl.mod, .post-block.tbl.ex, body > div > div > div > div > div > form > ul > li, .footer-nav, .page {
-    background: none repeat scroll 0 0 #222 !important;
+    background: none repeat scroll 0 0 #252525 !important;
     border: none !important;
     box-shadow: 0 0 1px white;
     padding: 10px !important;
@@ -82,13 +82,13 @@ a:hover {
     -khtml-border-radius: 1px !important;
 }
 #go_1, .content, .formtable td.formtitle, .formsubtitle, .row2, .pagelink, .pagelinklast, .pagecurrent, .minipagelink, .minipagelinklast, .pp-contentbox-back, .pp-contentbox-entry, .pp-contentbox-entry-noheight, .pp-contentbox-entry-noheight-mod, .pp-contentbox-entry-noheight-sel, .popupmenu-new, .pp-mini-content-entry, .pp-mini-content-entry-noheight, .pp-mini-entry-noheight-shaded, .post1, .bg1, .toplinks span, .pp-datebox, .popmenubutton-new, .globalmesswrap, .list_item, body[style="background:transparent;"], .globalmesswarnwrap, .list-group .list-group-item:active, .nav4pda, .form-bg, .form-toggle-visible .form-toggle-btn, .sidebar .list-group .list-group-item.active, #nav .active > *, .list-group > .list-group-item:hover, #nav .active:hover {
-    background: #333 !important;
+    background: #303030 !important;
 }
 .navbar, .slider-content {  /* навигация в QMS */
-    background: #333 !important;
+    background: #303030!important;
 }
 .ac_results, .row1, .popupmenu-new, .usercp_menu, .form, .list_item:hover, .menupopup .menu, .upopupmenu-new, tr td.formbuttonrow, .pformstrip, .borderwrap p.formbuttonrow, .borderwrap p.formbuttonrow1, .bar, .barb, .barc, .popupmenu, .attach-popupmenu, .attach-menu-row-over, .qms_unread_row, .list_item.active, #events-wrapper, .list-group .list-group-item, .dropdown-menu, .slider-content .meta-box, .ddbp-wframe {
-    background: #333 !important;
+    background: #303030 !important;
 }
 .ac_over, .codemain, .sqlmain, .htmlmain, .searchinput, textarea, .ed-wrap .ed-bbcode-hover, #_fskit, #ipb-file-upload-box, input, #events-list > a:hover, #nav ul li > .slider-active, #nav li:not([class=""]) a, #nav li:not([class=""]):hover, #nav ul li > *:hover, .i-code .dropdown-menu > li > a:hover, .i-code .dropdown-menu > li > a:focus { /* white */
     background: #ccc !important;
@@ -121,14 +121,14 @@ table th, .borderwrap table th, .subtitle, .subtitlediv, .postlinksbar, .maintit
     background: linear-gradient(135deg, #000 0%, #444 100%) repeat scroll 0 0 transparent !important;
 }
 .ed-wrap .ed-vtoggle-normal, .ed-wrap .ed-vtoggle-hover, .ed-wrap .ed-vtoggle-down, #thread_content .thread_timeline .timeline, .textarea-bb-panel, .thread-list .date .text {
-    background: #333 !important;
+    background: #303030 !important;
 }
 /* headers */
 .pp-tabon, .hidetop, .ed-wrap .ed-panel, .posttopbar, .maintitle, table th, .borderwrap table th, .subtitle, .subtitlediv, .postlinksbar, .maintitlecollapse, .pp-title, .pp-header, .pp-tabclear, .btn, .btn:hover, .upopupmenu-category, h4, h3, .popupmenu-category, .codetop, .sqltop, .htmltop, .button, input[type="button"], .input-ok-content, button, .post-block.spoil > .block-title, .post-block.quote > .block-title, .post-block.code > .block-title, .post-block.hidden > .block-title {
-    background: #333 !important;
+    background: #303030 !important;
 }
 .pp-taboff, .darkrow1, .quotetop, .footer {
-    background: #333 !important;
+    background: #303030 !important;
 }
 .maintitle, table th, .borderwrap table th, .subtitle, .subtitlediv, .postlinksbar, .maintitlecollapse, .pp-title, .pp-header, .pp-tabclear, .btn, .btn:hover, .upopupmenu-category, h4, h3, .popupmenu-category, .codetop, .sqltop, .htmltop, .button, input[type="button"], .input-ok-content {
     border-radius: 1px !important;
@@ -163,7 +163,7 @@ button {
     border-color: transparent !important;
 }
 .list-group .list-group-item .bage, .list-group .list-group-item .icon-close { /* QMS date of dialog */
-    background: linear-gradient(to right, rgba(32, 32, 32, 0) 0%, #333 20%, #333 100%) repeat scroll 0 0 rgba(0, 0, 0, 0) !important;
+    background: linear-gradient(to right, rgba(32, 32, 32, 0) 0%, #303030 20%, #303030 100%) repeat scroll 0 0 rgba(0, 0, 0, 0) !important;
 }
 /* fix for qms */
 #thread_content .msg {
