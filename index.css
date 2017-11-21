@@ -48,6 +48,9 @@ span[style="color:green"] {
 span[style="color:#290063"] {
     color: #58f !important;
 }
+span[style="color:#CF0CA6"] {
+    color: #508fcf !important;
+}
 .searchlite {
     background-color: #e8eb89 !important;
 }
@@ -115,7 +118,7 @@ table th, .borderwrap table th, .subtitle, .subtitlediv, .postlinksbar, .maintit
 .ed-wrap .ed-vtoggle-normal, .ed-wrap .ed-vtoggle-hover, .ed-wrap .ed-vtoggle-down, #thread_content .thread_timeline .timeline, .textarea-bb-panel, .thread-list .date .text {
     background: #303030 !important;
 }
-#ed-0_textarea, #search-in-post-query-2 {
+#ed-0_textarea, #search-in-post-query-2, #search-in-post-query-1 {
     background: #252525 !important;
 }
 /* headers */
