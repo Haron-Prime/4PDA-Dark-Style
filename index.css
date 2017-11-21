@@ -36,7 +36,7 @@ body, .user_home a, #navstrip, .formsubtitle, .input-warn, .input-green, .input-
 }
 /* text colors replace */
 span[style="color:blue"], span[style="color:Blue"], span[style="color:#0000ff"],  span[style="color:darkblue"], span[style="color:royalblue"], span[style="color:indigo"], span[style="color:#000080"], .newslink span, span[style="color:#000099"] {
-    color: #59b !important;
+    color: #508fcf !important;
 }
 .signature {
     color: #AAA !important;
@@ -60,11 +60,11 @@ span[style="color:#290063"] {
     background-color: #e8eb89 !important;
 }
 .slider-content .meta-box a {  /* Ссылки в новой верхней всплывашке "обзоры" */
-    background-color: #59b !important;
+    background-color: #508fcf !important;
 }
 /* links */
 a:link, a:visited, a:active {
-    color: #59b !important;
+    color: #508fcf !important;
 }
 a:hover {
     color: #9df !important
@@ -177,7 +177,7 @@ button {
 }
 path[fill="#ccc"],
 circle[fill="#ccc"]{
-fill: #222 !important;
+fill: #252525 !important;
 }
             /********* IMAGES *********/
 img[alt="Ответить"] {
