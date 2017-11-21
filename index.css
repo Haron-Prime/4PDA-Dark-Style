@@ -24,6 +24,7 @@ body {
 body, .user_home a, #navstrip, .formsubtitle, .input-warn, .input-green, .input-checkbox, input, textarea, select, table th, .borderwrap table th, .subtitle, .subtitlediv, .postlinksbar, .forumdesc, .forumdesc a:link, .forumdesc a:visited, .forumdesc a:active, table.ipbtable, tr.ipbtable, td.ipbtable, .usercp_menu, .usercp_menu_out, .popmenubutton-new, .pp-header, .pp-tiny-text, .popupmenu-item-last, .pp-taboff, .pp-tabshaded, .desc, h4, h3, .darkrow1, .lastaction, .pp-datebox em, .quotetop, .quotemain, .ipbtable td, .hidetop, .hidemain, .popupmenu-category, .post-edit-reason, .codemain, .sqlmain, .htmlmain, .codetop, .sqltop, .htmltop,  span[style$="color:#000000"], span[style="color:black"], .resized-linked-image, #loading-layer-inner, form, .ed-wrap .ed-panel-title, .darkrow3, #thread_content .out_message .msg, .navbar-title, .navbar-title > strong, .newslink, .newslink td, .smalltext, .attach-messagediv, .pa_text h2, .foruminfo .foruminfo_news, .foruminfo_news:hover, span[style="font-weight:bold;color:#222222;"], .post-block > .block-title, .post-block > .block-body, .footer-nav .f-note, #ipbwrapper > div, .u-note::after, .ddbp-spec-row, .content, .footer {
     color: #ccc !important;
 }
+
 #submenu a, .navbar-title > strong, .navbar-title, #thread_content .out_message .msg, .smalltext {
     text-shadow: 1px 1px 1px black;
 }
@@ -71,7 +72,7 @@ a:hover {
 
 /* blocks */
 .borderwrap, #userlinks, #userlinksguest, .copyright, #gfooter, .moddiv, #dw-body, .curdiv, #loading-layer-inner, .newslink, #ipbcontent, .ipbpagespan, .ipbnav, .ipbnavsmall, #ipbwrapper > .ipbtable, .message_item.in_message, .post-block.tbl.cur, .post-block.tbl.mod, .post-block.tbl.ex, body > div > div > div > div > div > form > ul > li, .footer-nav, .page {
-    background: none repeat scroll 0 0 rgba(25, 25, 25, 0.7) !important;
+    background: none repeat scroll 0 0 #222 !important;
     border: none !important;
     box-shadow: 0 0 1px white;
     padding: 10px !important;
@@ -90,7 +91,7 @@ a:hover {
     background: #333 !important;
 }
 .ac_over, .codemain, .sqlmain, .htmlmain, .searchinput, textarea, .ed-wrap .ed-bbcode-hover, #_fskit, #ipb-file-upload-box, input, #events-list > a:hover, #nav ul li > .slider-active, #nav li:not([class=""]) a, #nav li:not([class=""]):hover, #nav ul li > *:hover, .i-code .dropdown-menu > li > a:hover, .i-code .dropdown-menu > li > a:focus { /* white */
-    background: rgba(221, 221, 221, 0.1) !important;
+    background: #ccc !important;
 }
 .row2shaded, .post1shaded, .cur .block-title, #ipbwrapper > div[style*="background:#dff0d8"] { /* зеленый фон (куратор и добавлено в закладки) */
     background: rgba(0, 154, 61, 0.3) !important;
@@ -297,11 +298,9 @@ img[alt="@"] {
     padding-right: 8px !important;
     width: 0 !important;
 }
-
 }
 
 @-moz-document url-prefix("http://4pda.ru/forum/dl/post/"), url-prefix("https://4pda.ru/forum/dl/post/") {
-
 div {
         background: none !important;
     }
