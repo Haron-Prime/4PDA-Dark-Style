@@ -3,15 +3,12 @@
     display: none !important;
 }
 body {
-    /*noinspection CssUnknownTarget*/
-    /*background-image: url("http://raw.github.com/Pmmlabs/4PDAForum-NightGlass/master/images/wallpaper_black.jpg") !important;*/
     background-color: #222 !important;
     background-attachment: fixed !important;
     background-clip: border-box !important;
     background-origin: padding-box !important;
     background-position: center center !important;
     background-repeat: no-repeat !important;
-/*background-size: cover !important;*/
 }
 
 .minipagelink, .minipagelinklast {
