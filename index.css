@@ -144,7 +144,7 @@ table th, .borderwrap table th, .subtitle, .subtitlediv, .postlinksbar, .maintit
 #userlinks p, #userlinksguest p {
     font-size: 12px !important;
 }
-button, .hidemain, .exdiv {
+button, .hidemain, .exdiv, .pagelink {
     border-color: #757575 !important;
 }
 .textarea-bb-panel:after {
