@@ -291,6 +291,18 @@ img[alt="@"] {
     padding-right: 8px !important;
     width: 0 !important;
 }
+/*proile page*/
+#header#header#header#header + div, input {
+    color: #ccc !important;
+    background-color: #202020 !important;
+}
+.profile-textarea {
+    background: inherit !important;
+    border: solid 1px #757575 !important;
+}
+#nav li:not([class=""]) a {
+     background-color: inherit !important;
+}
 }
 
 @-moz-document url-prefix("http://4pda.ru/forum/dl/post/"), url-prefix("https://4pda.ru/forum/dl/post/") {
