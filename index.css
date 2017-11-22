@@ -33,10 +33,13 @@ span[style="color:blue"], span[style="color:Blue"], span[style="color:#0000ff"],
     color: #ccc !important;
 }
 span[style="color:red"], span[style="color:#FF0000"], span[style="color:darkred"], span[style="color:crimson"], .errorwrap p, .globalmesswarncontent  {
-    color: #f50 !important;
+    color: #c00 !important;
 }
 span[style="color:purple"] {
     color: #c8f !important;
+}
+span[style="color:deeppink"] {
+    color: #c06 !important;
 }
 span[style="color:teal"] {
     color: #3cc !important;
