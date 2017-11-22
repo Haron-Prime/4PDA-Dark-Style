@@ -3,7 +3,17 @@ Dark style with low contrast for forum 4pda.ru
 
 https://userstyles.org/styles/151698/4pda-dark-style-by-haron-prime
 
-![](/screenshots/4pda-1.png?raw=true)
+#### Vivaldi-snapshot
+
+![](/screenshots/4pda-vivaldi.png?raw=true)
+
+#### Nightly (Firefox 59.0a1)
+
+![](/screenshots/4pda-nightly.png?raw=true)
+
+#### Opera-developer
+
+![](/screenshots/4pda-opera.png?raw=true)
 
 ### License - WTFPL © 2017  http://www.wtfpl.net/ 
 
