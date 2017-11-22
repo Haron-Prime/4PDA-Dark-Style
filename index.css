@@ -8,7 +8,7 @@ body {
 .minipagelink, .minipagelinklast {
     border: none !important;
 }
-.borderwrap.read .row2, .borderwrap.read .post2, .borderwrap.read .post1, .borderwrap.read td.formbuttonrow, .lb-outerContainer, #logostrip, #header, #navbar, #replace_navbar, #list_wrapper, #footer, .menupopup .menu .item, .bg3, .activeusers, select, input.button, .plainborder, .tablefill, .tablepad, .borderwrap p, .popmenubutton-new, .popmenubutton, .hidemain, .post-edit-reason, #dw-wrapper, #dw-top, #dw-bottom, .pp-image-thumb-wrap, .pp-image-thumb-wrap-floatright, .pp-image-mini-wrap, .pp-image-mini-wrap-floatright, .resized-linked-image, .darkrow3, .postcolor, .attach-menubutton, .list_item:hover,  #welcome, .errorwrap, #redirectwrap, .attach-messagediv, .exdiv, #ucpmenu, #ucpcontent, .borderwrap, .borderwrapm, .formtable td, .pformleft, .pformleftw, .pformright, .qms_unread_row, .ed-wrap .ed-p-textarea, .bb-panel-button:hover, .check_list_div, .fieldwrap, .post-block > .block-body, .header, .sidebar, .footer-panel, .search-form, .events-count, .i-code:hover, .slider-content:after, .input-wrap, .captcha, .ed-wrap, td, #ed-0_wrap.ed_wrap, #contacts {
+.borderwrap.read .row2, .borderwrap.read .post2, .borderwrap.read .post1, .borderwrap.read td.formbuttonrow, .lb-outerContainer, #logostrip, #header, #navbar, #replace_navbar, #list_wrapper, #footer, .menupopup .menu .item, .bg3, .activeusers, select, input.button, .plainborder, .tablefill, .tablepad, .borderwrap p, .popmenubutton-new, .popmenubutton, .hidemain, .post-edit-reason, #dw-wrapper, #dw-top, #dw-bottom, .pp-image-thumb-wrap, .pp-image-thumb-wrap-floatright, .pp-image-mini-wrap, .pp-image-mini-wrap-floatright, .resized-linked-image, .darkrow3, .postcolor, .attach-menubutton, .list_item:hover,  #welcome, .errorwrap, #redirectwrap, .attach-messagediv, .exdiv, #ucpmenu, #ucpcontent, .borderwrap, .borderwrapm, .formtable td, .pformleft, .pformleftw, .pformright, .qms_unread_row, .ed-wrap .ed-p-textarea, .bb-panel-button:hover, .check_list_div, .fieldwrap, .post-block > .block-body, .header, .sidebar, .footer-panel, .search-form, .events-count, .i-code:hover, .slider-content:after, .input-wrap, .captcha, .ed-wrap, td, #ed-0_wrap.ed_wrap, #contacts, .borderwrap > .formsubtitle, #ed-0_ap > table {
     background: none !important;
     border: none !important;
 }
@@ -66,7 +66,7 @@ a:hover {
 
 /* blocks */
 .borderwrap, #userlinks, #userlinksguest, .copyright, #gfooter, .moddiv, #dw-body, .curdiv, #loading-layer-inner, .newslink, #ipbcontent, .ipbpagespan, .ipbnav, .ipbnavsmall, #ipbwrapper > .ipbtable, .message_item.in_message, .post-block.tbl.cur, .post-block.tbl.mod, .post-block.tbl.ex, body > div > div > div > div > div > form > ul > li, .footer-nav, .page {
-    background: none repeat scroll 0 0 #202020 !important;
+    background:  #202020 !important;
     border: none !important;
     box-shadow: 0 0 1px white;
     padding: 10px !important;
@@ -88,13 +88,13 @@ a:hover {
     background: #ccc !important;
 }
 .row2shaded, .post1shaded, .cur .block-title, #ipbwrapper > div[style*="background:#dff0d8"] {
-    background: rgba(0, 154, 61, 0.3) !important;
+    background: #009A3D !important;
 }
 .mod .block-title { /* blue moder cell. */
-    background: rgba(66, 115, 173, 0.3) !important;
+    background: #4273AD !important;
 }
 .row4shaded2, .post1shaded2, .post2shaded2, .ex .block-title, .error-content {
-    background: rgba(255, 100, 100, 0.6) !important;
+    background: #FF6464 !important;
 }
 .post-block.tbl > .block-title {
     border-radius: 1px 0 0 1px;
@@ -112,7 +112,7 @@ table th, .borderwrap table th, .subtitle, .subtitlediv, .postlinksbar, .maintit
     border: solid 1px #6c6 !important;
 }
 .foruminfo .grad0, .foruminfo .grad1 {
-    background: linear-gradient(135deg, #000 0%, #444 100%) repeat scroll 0 0 transparent !important;
+    background: #202020 !important;
 }
 .ed-wrap .ed-vtoggle-normal, .ed-wrap .ed-vtoggle-hover, .ed-wrap .ed-vtoggle-down, #thread_content .thread_timeline .timeline, .textarea-bb-panel, .thread-list .date .text {
     background: #303030 !important;
@@ -137,7 +137,7 @@ table th, .borderwrap table th, .subtitle, .subtitlediv, .postlinksbar, .maintit
     padding-left: 10px !important;
 }
 #header .h-frame {
-    background: linear-gradient(to top, transparent, black) !important;
+    background: #202020 !important;
 }
 /* other */
 #userlinks p, #userlinksguest p {
@@ -156,7 +156,7 @@ button, .hidemain, .exdiv, .pagelink {
     border-color: transparent !important;
 }
 .list-group .list-group-item .bage, .list-group .list-group-item .icon-close { /* QMS date of dialog */
-    background: linear-gradient(to right, rgba(32, 32, 32, 0) 0%, #303030 20%, #303030 100%) repeat scroll 0 0 rgba(0, 0, 0, 0) !important;
+    background: #202020 !important;
 }
 /* fix for qms */
 #thread_content .msg {
