@@ -215,13 +215,13 @@ img[src$="pip.gif"] { /* .postdetails img[alt="*"], .row1 img[alt="*"] {*/
 .formbuttonrow img[alt="-"] {
     background: url('https://raw.githubusercontent.com/Haron-Prime/4PDA-Dark-Style-by-Haron-Prime/master/images/bad.png') !important;
     height: 20px !important;
-    padding-right: 20px !important;
+    padding-right: 18px !important;
     width: 0 !important;
 }
 .formbuttonrow img[alt="+"] {
     background: url('https://raw.githubusercontent.com/Haron-Prime/4PDA-Dark-Style-by-Haron-Prime/master/images/good.png') !important;
     height: 20px !important;
-    padding-right: 20px !important;
+    padding-right: 18px !important;
     width: 0 !important;
 }
 .postdetails img[alt="+"] {
