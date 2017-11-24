@@ -75,13 +75,7 @@ a:hover {
     -moz-border-radius: 1px !important;
     -khtml-border-radius: 1px !important;
 }
-#go_1, .content, .formtable td.formtitle, .formsubtitle, .row2, .pagelink, .pagelinklast, .pagecurrent, .minipagelink, .minipagelinklast, .pp-contentbox-back, .pp-contentbox-entry, .pp-contentbox-entry-noheight, .pp-contentbox-entry-noheight-mod, .pp-contentbox-entry-noheight-sel, .popupmenu-new, .pp-mini-content-entry, .pp-mini-content-entry-noheight, .pp-mini-entry-noheight-shaded, .post1, .post2, .bg1, .toplinks span, .pp-datebox, .popmenubutton-new, .globalmesswrap, .list_item, body[style="background:transparent;"], .globalmesswarnwrap, .list-group .list-group-item:active, .nav4pda, .form-bg, .form-toggle-visible .form-toggle-btn, .sidebar .list-group .list-group-item.active, #nav .active > *, .list-group > .list-group-item:hover, #nav .active:hover {
-    background: #303030 !important;
-}
-.navbar, .slider-content, .borderwrap.read .ipbtable.read .post2, .borderwrap.read .ipbtable.read .row2 {
-    background-color: #303030 !important;
-}
-.ac_results, .row1, .popupmenu-new, .usercp_menu, .form, .list_item:hover, .menupopup .menu, .upopupmenu-new, tr td.formbuttonrow, .pformstrip, .borderwrap p.formbuttonrow, .borderwrap p.formbuttonrow1, .bar, .barb, .barc, .popupmenu, .attach-popupmenu, .attach-menu-row-over, .qms_unread_row, .list_item.active, #events-wrapper, .list-group .list-group-item, .dropdown-menu, .slider-content .meta-box, .ddbp-wframe {
+#go_1, .content, .formtable td.formtitle, .formsubtitle, .row2, .pagelink, .pagelinklast, .pagecurrent, .minipagelink, .minipagelinklast, .pp-contentbox-back, .pp-contentbox-entry, .pp-contentbox-entry-noheight, .pp-contentbox-entry-noheight-mod, .pp-contentbox-entry-noheight-sel, .popupmenu-new, .pp-mini-content-entry, .pp-mini-content-entry-noheight, .pp-mini-entry-noheight-shaded, .post1, .post2, .bg1, .toplinks span, .pp-datebox, .popmenubutton-new, .globalmesswrap, .list_item, body[style="background:transparent;"], .globalmesswarnwrap, .list-group .list-group-item:active, .nav4pda, .form-bg, .form-toggle-visible .form-toggle-btn, .sidebar .list-group .list-group-item.active, #nav .active > *, .list-group > .list-group-item:hover, #nav .active:hover, .ac_results, .row1, .popupmenu-new, .usercp_menu, .form, .list_item:hover, .menupopup .menu, .upopupmenu-new, tr td.formbuttonrow, .pformstrip, .borderwrap p.formbuttonrow, .borderwrap p.formbuttonrow1, .bar, .barb, .barc, .popupmenu, .attach-popupmenu, .attach-menu-row-over, .qms_unread_row, .list_item.active, #events-wrapper, .list-group .list-group-item, .dropdown-menu, .slider-content .meta-box, .ddbp-wframe, .navbar, .slider-content, .borderwrap.read .ipbtable.read .post2, .borderwrap.read .ipbtable.read .row2, .ed-wrap .ed-vtoggle-normal, .ed-wrap .ed-vtoggle-hover, .ed-wrap .ed-vtoggle-down, #thread_content .thread_timeline .timeline, .textarea-bb-panel, .thread-list .date .text {
     background: #303030 !important;
 }
 .ac_over, .codemain, .sqlmain, .htmlmain, .searchinput, textarea, .ed-wrap .ed-bbcode-hover, #_fskit, #ipb-file-upload-box, input, #events-list > a:hover, #nav ul li > .slider-active, #nav li:not([class=""]) a, #nav li:not([class=""]):hover, #nav ul li > *:hover, .i-code .dropdown-menu > li > a:hover, .i-code .dropdown-menu > li > a:focus {
@@ -111,20 +105,12 @@ table th, .borderwrap table th, .subtitle, .subtitlediv, .postlinksbar, .maintit
 #events_wrapper {
     border: solid 1px #6c6 !important;
 }
-.foruminfo .grad0, .foruminfo .grad1 {
+#ed-0_textarea, #search-in-post-query-2, #search-in-post-query-1, .row2 > table.ipbtable, .foruminfo .grad0, .foruminfo .grad1 {
     background: #202020 !important;
 }
-.ed-wrap .ed-vtoggle-normal, .ed-wrap .ed-vtoggle-hover, .ed-wrap .ed-vtoggle-down, #thread_content .thread_timeline .timeline, .textarea-bb-panel, .thread-list .date .text {
-    background: #303030 !important;
-}
-#ed-0_textarea, #search-in-post-query-2, #search-in-post-query-1, .row2 > table.ipbtable {
-    background: #202020 !important;
-}
+
 /* headers */
-.pp-tabon, .hidetop, .ed-wrap .ed-panel, .posttopbar, .maintitle, table th, .borderwrap table th, .subtitle, .subtitlediv, .postlinksbar, .maintitlecollapse, .pp-title, .pp-header, .pp-tabclear, .btn, .btn:hover, .upopupmenu-category, h4, h3, .popupmenu-category, .codetop, .sqltop, .htmltop, .button, input[type="button"], .input-ok-content, button, .post-block.spoil > .block-title, .post-block.quote > .block-title, .post-block.code > .block-title, .post-block.hidden > .block-title {
-    background: #303030 !important;
-}
-.pp-taboff, .darkrow1, .quotetop, .footer, .ipbtable read {
+.pp-taboff, .darkrow1, .quotetop, .footer, .ipbtable read, .pp-tabon, .hidetop, .ed-wrap .ed-panel, .posttopbar, .maintitle, table th, .borderwrap table th, .subtitle, .subtitlediv, .postlinksbar, .maintitlecollapse, .pp-title, .pp-header, .pp-tabclear, .btn, .btn:hover, .upopupmenu-category, h4, h3, .popupmenu-category, .codetop, .sqltop, .htmltop, .button, input[type="button"], .input-ok-content, button, .post-block.spoil > .block-title, .post-block.quote > .block-title, .post-block.code > .block-title, .post-block.hidden > .block-title {
     background: #303030 !important;
 }
 .maintitle, table th, .borderwrap table th, .subtitle, .subtitlediv, .postlinksbar, .maintitlecollapse, .pp-title, .pp-header, .pp-tabclear, .btn, .btn:hover, .upopupmenu-category, h4, h3, .popupmenu-category, .codetop, .sqltop, .htmltop, .button, input[type="button"], .input-ok-content {
