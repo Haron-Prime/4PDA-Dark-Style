@@ -1,4 +1,8 @@
 @-moz-document url-prefix("http://4pda.ru/forum/"), url-prefix("https://4pda.ru/forum/") {
+
+/* Author - Haron Prime
+License WTFPL © 2017 http://www.wtfpl.net/ */
+
 .borderwrap-header td[width="80%"], .catend, #dw-top, #ipb_link_ad, .user-profile-list .margin-block, #logostrip {
     display: none !important;
 }
