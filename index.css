@@ -93,6 +93,7 @@ span[style="color:#CF0CA6"] {
 /* links */
 a:link, a:visited, a:active {
     color: #508fcf !important;
+    text-decoration: none !important;
 }
 a:hover {
     color: #9df !important
