@@ -2,39 +2,39 @@
 /* Author - Haron Prime
 License WTFPL © 2017 http://www.wtfpl.net/ */
 
-.borderwrap-header td[width="80%"], .catend, #dw-top, #ipb_link_ad, .user-profile-list .margin-block, #logostrip {
-    display: none !important;
-}
 /* Header */
 #ipbwrapper #userlinks {
     position: fixed !important;
     z-index: 998 !important;
-    width: 100% !important;
+    width: 99% !important;
     height: 24px !important;
     left: 0px !important;
     background: #202020 !important;
-    box-shadow: 0px 4px 10px rgba(55,55,55,0.7) !important;
+    box-shadow: 0px 6px 10px rgba(55,55,55,0.5) !important;
 }
 #ipbwrapper .user_home {
     position: absolute !important;
     padding-top: 68px !important;
-    right: 18px !important;
+    right: 20px !important;
 }
 #submenu  {
     display: block !important;
     position: fixed !important;
     z-index: 999 !important;
-    top: 6px !important;
+    top: 7px !important;
     left: 45% !important;
     width: auto !important;
+    margin: auto !important;
+    text-align: center !important;
 }
 .usercp_menu_out, .usercp_menu {
-    margin-right: 28px !important;
+    margin-right: 10px !important;
 }
-.riLSCbfFAuDOnrkWbwaB {
+.borderwrap-header td[width="80%"], .catend, #dw-top, #ipb_link_ad, .user-profile-list .margin-block, #logostrip, .riLSCbfFAuDOnrkWbwaB {
     display: none !important;
 }
 
+/* BODY */
 body {
     padding-top: 20px !important;
     background-color: #202020 !important;
