@@ -337,3 +337,9 @@ div {
         background: none !important;
     }
 }
+
+@-moz-document url-prefix("http://4pda.ru/forum/index.php?act=qms"), url-prefix("https://4pda.ru/forum/index.php?act=qms") {
+.form-input {
+    background : #333 !important;
+}
+}
