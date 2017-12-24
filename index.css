@@ -173,7 +173,7 @@ table th, .borderwrap table th, .subtitle, .subtitlediv, .postlinksbar, .maintit
 .maintitle {
     background-color: #202020 !important;
 }
-.upopupmenu, .upopupmenu-new, .popupmenu-new {
+.popupmenu, .upopupmenu, .upopupmenu-new, .popupmenu-new {
     border: 1px solid #757575 !important;
 }
 .upopupmenu-item, .popupmenu-item {
