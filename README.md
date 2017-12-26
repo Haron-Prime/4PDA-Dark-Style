@@ -1,4 +1,4 @@
-# 4PDA Dark Style by Haron Prime
+# 4PDA Dark Style
 Dark style with low contrast for forum 4pda.ru
 
 https://userstyles.org/styles/151698/4pda-dark-style-by-haron-prime
