@@ -1,7 +1,7 @@
 # 4PDA Dark Style
 Dark style with low contrast for forum 4pda.ru
 
-https://userstyles.org/styles/151698/4pda-dark-style-by-haron-prime
+https://userstyles.org/styles/151698/4pda-dark-style
 
 #### Vivaldi-snapshot
 
