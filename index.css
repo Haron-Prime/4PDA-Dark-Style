@@ -10,7 +10,7 @@ License WTFPL © 2017 http://www.wtfpl.net/ */
     height: 24px !important;
     left: 0px !important;
     background: #202020 !important;
-    box-shadow: 0px 6px 10px rgba(55,55,55,0.5) !important;
+    box-shadow: 0px 6px 12px rgba(55,55,55,0.5) !important;
 }
 #ipbwrapper .user_home {
     position: absolute !important;
@@ -42,7 +42,7 @@ body {
 .minipagelink, .minipagelinklast {
     border: none !important;
 }
-.borderwrap.read .row2, .borderwrap.read .post2, .borderwrap.read .post1, .borderwrap.read td.formbuttonrow, .lb-outerContainer, #logostrip, #header, #navbar, #replace_navbar, #list_wrapper, #footer, .menupopup .menu .item, .bg3, .activeusers, select, input.button, .plainborder, .tablefill, .tablepad, .borderwrap p, .popmenubutton-new, .popmenubutton, .hidemain, .post-edit-reason, #dw-wrapper, #dw-top, #dw-bottom, .pp-image-thumb-wrap, .pp-image-thumb-wrap-floatright, .pp-image-mini-wrap, .pp-image-mini-wrap-floatright, .resized-linked-image, .darkrow3, .postcolor, .attach-menubutton, .list_item:hover,  #welcome, .errorwrap, #redirectwrap, .attach-messagediv, .exdiv, #ucpmenu, #ucpcontent, .borderwrap, .borderwrapm, .formtable td, .pformleft, .pformleftw, .pformright, .qms_unread_row, .ed-wrap .ed-p-textarea, .bb-panel-button:hover, .check_list_div, .fieldwrap, .post-block > .block-body, .header, .sidebar, .footer-panel, .search-form, .events-count, .i-code:hover, .slider-content:after, .input-wrap, .captcha, .ed-wrap, td, #ed-0_wrap.ed_wrap, #contacts, .borderwrap > .formsubtitle, #ed-0_ap > table {
+.borderwrap.read .row2, .borderwrap.read .post2, .borderwrap.read .post1, .borderwrap.read td.formbuttonrow, .lb-outerContainer, #logostrip, #header, #navbar, #replace_navbar, #list_wrapper, #footer, .menupopup .menu .item, .bg3, .activeusers, select, input.button, .plainborder, .tablefill, .tablepad, .borderwrap p, .popmenubutton-new, .popmenubutton, .hidemain, .post-edit-reason, #dw-wrapper, #dw-top, #dw-bottom, .pp-image-thumb-wrap, .pp-image-thumb-wrap-floatright, .pp-image-mini-wrap, .pp-image-mini-wrap-floatright, .resized-linked-image, .darkrow3, .postcolor, .attach-menubutton, .list_item:hover,  #welcome, .errorwrap, #redirectwrap, .attach-messagediv, .exdiv, #ucpmenu, #ucpcontent, .borderwrap, .borderwrapm, .formtable td, .pformleft, .pformleftw, .pformright, .qms_unread_row, .bb-panel-button:hover, .check_list_div, .fieldwrap, .post-block > .block-body, .header, .sidebar, .footer-panel, .search-form, .events-count, .i-code:hover, .slider-content:after, .input-wrap, .captcha, .ed-wrap, td, #ed-0_wrap.ed_wrap, #contacts, .borderwrap > .formsubtitle, #ed-0_ap > table {
     background: none !important;
     border: none !important;
 }
@@ -50,8 +50,9 @@ body {
 body, .user_home a, #navstrip, .formsubtitle, .input-warn, .input-green, .input-checkbox, input, textarea, select, table th, .borderwrap table th, .subtitle, .subtitlediv, .postlinksbar, .forumdesc, .forumdesc a:link, .forumdesc a:visited, .forumdesc a:active, table.ipbtable, tr.ipbtable, td.ipbtable, .usercp_menu, .usercp_menu_out, .popmenubutton-new, .pp-header, .pp-tiny-text, .popupmenu-item-last, .pp-taboff, .pp-tabshaded, .desc, h4, h3, .darkrow1, .lastaction, .pp-datebox em, .quotetop, .quotemain, .ipbtable td, .hidetop, .hidemain, .popupmenu-category, .post-edit-reason, .codemain, .sqlmain, .htmlmain, .codetop, .sqltop, .htmltop,  span[style$="color:#000000"], span[style="color:black"], .resized-linked-image, #loading-layer-inner, form, .ed-wrap .ed-panel-title, .darkrow3, #thread_content .out_message .msg, .navbar-title, .navbar-title > strong, .newslink, .newslink td, .smalltext, .attach-messagediv, .pa_text h2, .foruminfo .foruminfo_news, .foruminfo_news:hover, span[style="font-weight:bold;color:#222222;"], .post-block > .block-title, .post-block > .block-body, .footer-nav .f-note, #ipbwrapper > div, .u-note::after, .ddbp-spec-row, .content, .footer, .maintitle td {
     color: #ccc !important;
 }
-#events_wrapper {
+#events_wrapper, .ed-wrap .ed-p-textarea, .ed-wrap .ed-textarea {
     background-color: #303030 !important;
+/*  background: #303030 !important; */
 }
 .codemain, .sqlmain, .htmlmain {
     font-family: Consolas, "Courier New", Verdana, Arial, Ubuntu, serif !important;
