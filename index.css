@@ -337,7 +337,7 @@ img[alt="@"] {
 #nav li:not([class=""]) a {
      background-color: inherit !important;
 }
-#nav ul li > *:hover, #events-list > a:hover, #nav ul li > .slider-active, #nav li:not([class=""]) a, #nav li:not([class=""]):hover {
+#nav ul li > *:hover, #events-list > a:hover, #nav ul li > .slider-active, #nav li:not([class=""]):hover {
     background: #555 !important;
 }
 }
