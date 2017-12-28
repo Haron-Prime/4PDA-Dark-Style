@@ -120,7 +120,7 @@ tbody .darkrow1 {
 #ipbwrapper #gfooter, .copyright {
     box-shadow: none !important;
 }
-.ac_over, .codemain, .sqlmain, .htmlmain, .searchinput, textarea, .ed-wrap .ed-bbcode-hover, #_fskit, #ipb-file-upload-box, input, #events-list > a:hover, #nav ul li > .slider-active, #nav li:not([class=""]) a, #nav li:not([class=""]):hover, #nav ul li > *:hover, .i-code .dropdown-menu > li > a:hover, .i-code .dropdown-menu > li > a:focus {
+.ac_over, .codemain, .sqlmain, .htmlmain, .searchinput, textarea, .ed-wrap .ed-bbcode-hover, #_fskit, #ipb-file-upload-box, input,  .i-code .dropdown-menu > li > a:hover, .i-code .dropdown-menu > li > a:focus {
     background: #ccc !important;
 }
 .row2shaded, .post1shaded, .cur .block-title, #ipbwrapper > div[style*="background:#dff0d8"] {
@@ -336,6 +336,9 @@ img[alt="@"] {
 }
 #nav li:not([class=""]) a {
      background-color: inherit !important;
+}
+#nav ul li > *:hover, #events-list > a:hover, #nav ul li > .slider-active, #nav li:not([class=""]) a, #nav li:not([class=""]):hover {
+    background: #555 !important;
 }
 }
 
