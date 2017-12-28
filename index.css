@@ -39,7 +39,7 @@ body {
     padding-top: 20px !important;
     background-color: #202020 !important;
 }
-.minipagelink, .minipagelinklast {
+.minipagelink, .minipagelinklast, .u-note {
     border: none !important;
 }
 .borderwrap.read .row2, .borderwrap.read .post2, .borderwrap.read .post1, .borderwrap.read td.formbuttonrow, .lb-outerContainer, #logostrip, #header, #navbar, #replace_navbar, #list_wrapper, #footer, .menupopup .menu .item, .bg3, .activeusers, select, input.button, .plainborder, .tablefill, .tablepad, .borderwrap p, .popmenubutton-new, .popmenubutton, .hidemain, .post-edit-reason, #dw-wrapper, #dw-top, #dw-bottom, .pp-image-thumb-wrap, .pp-image-thumb-wrap-floatright, .pp-image-mini-wrap, .pp-image-mini-wrap-floatright, .resized-linked-image, .darkrow3, .postcolor, .attach-menubutton, .list_item:hover,  #welcome, .errorwrap, #redirectwrap, .attach-messagediv, .exdiv, #ucpmenu, #ucpcontent, .borderwrap, .borderwrapm, .formtable td, .pformleft, .pformleftw, .pformright, .qms_unread_row, .bb-panel-button:hover, .check_list_div, .fieldwrap, .post-block > .block-body, .header, .sidebar, .footer-panel, .search-form, .events-count, .i-code:hover, .slider-content:after, .input-wrap, .captcha, .ed-wrap, td, #ed-0_wrap.ed_wrap, #contacts, .borderwrap > .formsubtitle, #ed-0_ap > table {
