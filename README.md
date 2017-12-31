@@ -15,7 +15,7 @@ https://userstyles.org/styles/151698/4pda-dark-style
 
 ![](/screenshots/4pda-opera.png?raw=true)
 
-### License - WTFPL © 2017  http://www.wtfpl.net/ 
+### License - [WTFPL](http://www.wtfpl.net/ "WTFPL") 
 
 ```
 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
