@@ -1,7 +1,7 @@
 @-moz-document url-prefix("http://4pda.ru/forum/"), url-prefix("https://4pda.ru/forum/") {
 /* Author - Haron Prime
 License WTFPL © 2017 http://www.wtfpl.net/
-Version 0.7.9 */
+Version 0.7.10 */
 
 /* Header */
 #ipbwrapper #userlinks {
@@ -112,7 +112,7 @@ a:hover {
     -moz-border-radius: 1px !important;
     -khtml-border-radius: 1px !important;
 }
-#go_1, .content, .formtable td.formtitle, .formsubtitle, .row2, .pagelink, .pagelinklast, .pagecurrent, .minipagelink, .minipagelinklast, .pp-contentbox-back, .pp-contentbox-entry, .pp-contentbox-entry-noheight, .pp-contentbox-entry-noheight-mod, .pp-contentbox-entry-noheight-sel, .popupmenu-new, .pp-mini-content-entry, .pp-mini-content-entry-noheight, .pp-mini-entry-noheight-shaded, .post1, .post2, .bg1, .toplinks span, .pp-datebox, .popmenubutton-new, .globalmesswrap, .list_item, body[style="background:transparent;"], .globalmesswarnwrap, .list-group .list-group-item:active, .nav4pda, .form-bg, .form-toggle-visible .form-toggle-btn, .sidebar .list-group .list-group-item.active, #nav .active > *, .list-group > .list-group-item:hover, #nav .active:hover, .ac_results, .row1, .popupmenu-new, .usercp_menu, .form, .list_item:hover, .menupopup .menu, .upopupmenu-new, tr td.formbuttonrow, .pformstrip, .borderwrap p.formbuttonrow, .borderwrap p.formbuttonrow1, .bar, .barb, .barc, .popupmenu, .attach-popupmenu, .attach-menu-row-over, .qms_unread_row, .list_item.active, #events-wrapper, .list-group .list-group-item, .dropdown-menu, .slider-content .meta-box, .ddbp-wframe, .navbar, .slider-content, .borderwrap.read .ipbtable.read .post2, .borderwrap.read .ipbtable.read .post1, .borderwrap.read .post1, .borderwrap.read .post1, .borderwrap.read .ipbtable.read .row2, .borderwrap.read .row2, .ed-wrap .ed-vtoggle-normal, .ed-wrap .ed-vtoggle-hover, .ed-wrap .ed-vtoggle-down, #thread_content .thread_timeline .timeline, .textarea-bb-panel, .thread-list .date .text, .form-input {
+#go_1, .content, .formtable td.formtitle, .formsubtitle, .row2, .pagelink, .pagelinklast, .pagecurrent, .minipagelink, .minipagelinklast, .pp-contentbox-back, .pp-contentbox-entry, .pp-contentbox-entry-noheight, .pp-contentbox-entry-noheight-mod, .pp-contentbox-entry-noheight-sel, .popupmenu-new, .pp-mini-content-entry, .pp-mini-content-entry-noheight, .pp-mini-entry-noheight-shaded, .post1, .post2, .bg1, .toplinks span, .pp-datebox, .popmenubutton-new, .globalmesswrap, .list_item, body[style="background:transparent;"], .globalmesswarnwrap, .list-group .list-group-item:active, .nav4pda, .form-bg, .form-toggle-visible .form-toggle-btn, .sidebar .list-group .list-group-item.active, #nav .active > *, .list-group > .list-group-item:hover, #nav .active:hover, .ac_results, .row1, .popupmenu-new, .usercp_menu, .form, .list_item:hover, .menupopup .menu, .upopupmenu-new, tr td.formbuttonrow, .pformstrip, .borderwrap p.formbuttonrow, .borderwrap p.formbuttonrow1, .bar, .barb, .barc, .popupmenu, .attach-popupmenu, .attach-menu-row-over, .qms_unread_row, .list_item.active, #events-wrapper, .list-group .list-group-item, .dropdown-menu, .slider-content .meta-box, .ddbp-wframe, .navbar, .slider-content, .borderwrap.read .ipbtable.read .post2, .borderwrap.read .ipbtable.read .post1, .borderwrap.read .post1, .borderwrap.read .post1, .borderwrap.read .ipbtable.read .row2, .borderwrap.read .row2, .ed-wrap .ed-vtoggle-normal, .ed-wrap .ed-vtoggle-hover, .ed-wrap .ed-vtoggle-down, #thread_content .thread_timeline .timeline, .textarea-bb-panel, .thread-list .date .text, .form-input, #_fskit {
     background: #303030 !important;
 }
 tbody .darkrow1 {
@@ -121,7 +121,7 @@ tbody .darkrow1 {
 #ipbwrapper #gfooter, .copyright {
     box-shadow: none !important;
 }
-.ac_over, .codemain, .sqlmain, .htmlmain, .searchinput, textarea, .ed-wrap .ed-bbcode-hover, #_fskit, #ipb-file-upload-box, input,  .i-code .dropdown-menu > li > a:hover, .i-code .dropdown-menu > li > a:focus {
+.ac_over, .codemain, .sqlmain, .htmlmain, .searchinput, textarea, .ed-wrap .ed-bbcode-hover, #ipb-file-upload-box, input,  .i-code .dropdown-menu > li > a:hover, .i-code .dropdown-menu > li > a:focus {
     background: #ccc !important;
 }
 .row2shaded, .post1shaded, .cur .block-title, #ipbwrapper > div[style*="background:#dff0d8"] {
