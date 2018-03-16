@@ -1,7 +1,7 @@
 @-moz-document url-prefix("http://4pda.ru/forum/"), url-prefix("https://4pda.ru/forum/") {
 /* Author - Haron Prime
 License WTFPL © 2017 http://www.wtfpl.net/
-Version 0.7.10 */
+Version 0.7.11 */
 
 /* Header */
 #ipbwrapper #userlinks {
@@ -353,4 +353,10 @@ img[alt="@"] {
 div {
         background: none !important;
     }
+}
+
+@-moz-document url-prefix("https://4pda.ru/forum/index.php?act=qms"), url-prefix("http://4pda.ru/forum/index.php?act=qms") {
+nicescroll-rails {
+width: 10px !important;
+}
 }
