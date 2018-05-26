@@ -1,7 +1,7 @@
 @-moz-document url-prefix("http://4pda.ru/forum/"), url-prefix("https://4pda.ru/forum/") {
 /* Author - Haron Prime
 License WTFPL -  http://www.wtfpl.net/
-Version 0.7.14 */
+Version 0.7.15 */
 
 /* Header */
 #ipbwrapper #userlinks {
@@ -62,6 +62,9 @@ body, .user_home a, #navstrip, .formsubtitle, .input-warn, .input-green, .input-
 /*  box-shadow: 0 1px 0 0 #555 inset !important; */
     -webkit-box-shadow: 0 1px 0 0 #555 inset !important;
     -moz-box-shadow: 0 1px 0 0 #555 inset !important;
+}
+.post-block {
+    border-left: 4px solid #aaa !important;
 }
 .codemain, .sqlmain, .htmlmain {
     font-family: Consolas, "Courier New", Verdana, Arial, Ubuntu, serif !important;
