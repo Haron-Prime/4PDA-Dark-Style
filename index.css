@@ -1,7 +1,7 @@
 @-moz-document url-prefix("http://4pda.ru/forum/"), url-prefix("https://4pda.ru/forum/") {
 /* Author - Haron Prime
 License WTFPL © 2017 http://www.wtfpl.net/
-Version 0.7.12 */
+Version 0.7.13 */
 
 /* Header */
 #ipbwrapper #userlinks {
@@ -54,6 +54,14 @@ body, .user_home a, #navstrip, .formsubtitle, .input-warn, .input-green, .input-
 #events_wrapper, .ed-wrap .ed-p-textarea, .ed-wrap .ed-textarea, textarea#message {
     background-color: #303030 !important;
     background: #303030 !important;
+}
+.dipt, .dipt:after, .dipt .dfrml + .dfrmr, .dipt .dfrmrbrd {
+    background-color: #303030 !important;
+    background: #303030 !important;
+    color: #ccc !important;
+    box-shadow: 0 1px 0 0 #959595 inset !important;
+    -webkit-box-shadow: 0 1px 0 0 #959595 inset !important;
+    -moz-box-shadow: 0 1px 0 0 #959595 inset !important;
 }
 .codemain, .sqlmain, .htmlmain {
     font-family: Consolas, "Courier New", Verdana, Arial, Ubuntu, serif !important;
