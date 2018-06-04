@@ -1,7 +1,7 @@
 @-moz-document url-prefix("http://4pda.ru/forum/"), url-prefix("https://4pda.ru/forum/") {
 /* Author - Haron Prime
 License WTFPL -  http://www.wtfpl.net/
-Version 0.7.18 */
+Version 0.8.0 */
 
 /* Header */
 #ipbwrapper #userlinks {
@@ -114,7 +114,7 @@ a:hover {
 }
 
 /* blocks */
-.borderwrap, #userlinks, #userlinksguest, .copyright, #gfooter, .moddiv, #dw-body, .curdiv, #loading-layer-inner, .newslink, #ipbcontent, .ipbpagespan, .ipbnav, .ipbnavsmall, #ipbwrapper > .ipbtable, .message_item.in_message, .post-block.tbl.cur, .post-block.tbl.mod, .post-block.tbl.ex, body > div > div > div > div > div > form > ul > li, .footer-nav, .page {
+/* .borderwrap,*/ #userlinks, #userlinksguest, .copyright, #gfooter, .moddiv, #dw-body, .curdiv, #loading-layer-inner, .newslink, #ipbcontent, .ipbpagespan, .ipbnav, .ipbnavsmall, #ipbwrapper > .ipbtable, .message_item.in_message, .post-block.tbl.cur, .post-block.tbl.mod, .post-block.tbl.ex, body > div > div > div > div > div > form > ul > li, .footer-nav, .page { 
     background:  #202020 !important;
     border: none !important;
     box-shadow: 0 0 1px white;
@@ -130,7 +130,7 @@ a:hover {
 tbody .darkrow1 {
     background-color: #444 !important;
 }
-#ipbwrapper #gfooter, .copyright {
+#ipbwrapper #gfooter, .copyright, .borderwrap {
     box-shadow: none !important;
 }
 .ac_over, .codemain, .sqlmain, .htmlmain, .searchinput, textarea, .ed-wrap .ed-bbcode-hover, #ipb-file-upload-box, input,  .i-code .dropdown-menu > li > a:hover, .i-code .dropdown-menu > li > a:focus {
