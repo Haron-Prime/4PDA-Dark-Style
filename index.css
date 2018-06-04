@@ -1,7 +1,7 @@
 @-moz-document url-prefix("http://4pda.ru/forum/"), url-prefix("https://4pda.ru/forum/") {
 /* Author - Haron Prime
 License WTFPL -  http://www.wtfpl.net/
-Version 0.7.17 */
+Version 0.7.18 */
 
 /* Header */
 #ipbwrapper #userlinks {
@@ -31,7 +31,7 @@ Version 0.7.17 */
 .usercp_menu_out, .usercp_menu {
     margin-right: 10px !important;
 }
-.borderwrap-header td[width="80%"], .catend, #dw-top, #ipb_link_ad, .user-profile-list .margin-block, #logostrip, .riLSCbfFAuDOnrkWbwaB {
+.borderwrap-header td[width="80%"], .catend, #dw-top, #ipb_link_ad, .user-profile-list .margin-block, #logostrip, .riLSCbfFAuDOnrkWbwaB, .rk1M8x9Yvjz0hacT5pNXaWpc4 {
     display: none !important;
 }
 
