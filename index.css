@@ -1,7 +1,7 @@
 @-moz-document url-prefix("http://4pda.ru/forum/"), url-prefix("https://4pda.ru/forum/") {
 /* Author - Haron Prime
 License WTFPL -  http://www.wtfpl.net/
-Version 0.8.0 */
+Version 0.8.1 */
 
 /* Header */
 #ipbwrapper #userlinks {
@@ -27,6 +27,9 @@ Version 0.8.0 */
     width: auto !important;
     margin: auto !important;
     text-align: center !important;
+}
+#post-member-usercp_menu.popupmenu-new {
+    position: fixed !important;
 }
 .usercp_menu_out, .usercp_menu {
     margin-right: 10px !important;
