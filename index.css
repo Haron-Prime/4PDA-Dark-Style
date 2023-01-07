@@ -1,4 +1,4 @@
-@-moz-document url-prefix("http://4pda.ru/forum/"), url-prefix("https://4pda.ru/forum/") {
+@-moz-document regexp(".*\\/\\/4pda\\.to\\/forum.*") {
 /* Author - Haron Prime
 License WTFPL -  http://www.wtfpl.net/
 Version 0.8.2 */
@@ -364,13 +364,13 @@ img[alt="@"] {
 }
 }
 
-@-moz-document url-prefix("http://4pda.ru/forum/dl/post/"), url-prefix("https://4pda.ru/forum/dl/post/") {
+@-moz-document regexp(".*\\/\\/4pda\\.to\\/forum\\/dl\\/post\\/.*") {
 div {
         background: none !important;
     }
 }
 
-@-moz-document url-prefix("https://4pda.ru/forum/index.php?act=qms"), url-prefix("http://4pda.ru/forum/index.php?act=qms") {
+@-moz-document regexp(".*\\/\\/4pda\\.to\\/forum\\/index\\.php\\?act=qms.*") {
 nicescroll-rails {
 width: 10px !important;
 }
